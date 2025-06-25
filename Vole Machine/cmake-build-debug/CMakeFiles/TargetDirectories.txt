@@ -1,0 +1,3 @@
+G:/Downloads/Ziad's vole machine/Vole Machine 2/cmake-build-debug/CMakeFiles/new_vole_machine.dir
+G:/Downloads/Ziad's vole machine/Vole Machine 2/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/Downloads/Ziad's vole machine/Vole Machine 2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
