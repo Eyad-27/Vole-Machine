@@ -74,21 +74,7 @@ After launching the simulator:
 - Inspect registers/memory status  
 - View screen output  
 
-**Sample Output:**
-PC: 000A
-IR: 5112
-Screen: Hello Vole!
-Registers:
-R0 = 00
-R1 = 2A
-...
-R5 = FF
-Memory:
-0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F
-0     00 2A 1B C4 00 00 00 00 00 00 00 00 00 00 00 00
-1     00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
-...
-F     00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+<pre><code>## Sample Output```PC: 000AIR: 5112Screen Output:Hello Vole!Registers:R0 = 00   R1 = 2A   R2 = 1B   R3 = C4R4 = 00   R5 = FF   R6 = 00   R7 = 00R8 = 00   R9 = 00   RA = 00   RB = 00RC = 00   RD = 00   RE = 00   RF = 00Memory:0   1   2   3   4   5   6   7   8   9   A   B   C   D   E   F0x0   00  2A  1B  C4  00  00  00  00  00  00  00  00  00  00  00  000x1   00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00...0xF   00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00```</code></pre>
 
 
 ## Key OOP Concepts Implemented
