@@ -74,26 +74,6 @@ After launching the simulator:
 - Inspect registers/memory status  
 - View screen output  
 
-**Sample Output**
-PC: 000A
-IR: 5112
-
-Screen: Hello Vole!
-
-Registers:
-R0 = 00
-R1 = 2A
-...
-R5 = FF
-
-Memory:
-      0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F
-0     00 2A 1B C4 00 00 00 00 00 00 00 00 00 00 00 00
-1     00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
-...
-F     00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
-
-
 ## Key OOP Concepts Implemented
 
 - Class inheritance hierarchy  
